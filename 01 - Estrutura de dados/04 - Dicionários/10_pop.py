@@ -5,3 +5,5 @@ print(resultado)
 
 resultado = contatos.pop("guilherme@gmail.com", {})  # {}
 print(resultado)
+
+# pop remove uma chave do dicionário. É possível passar um valor padrão para retornar

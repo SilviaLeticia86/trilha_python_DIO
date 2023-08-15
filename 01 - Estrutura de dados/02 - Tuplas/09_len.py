@@ -7,3 +7,4 @@ linguagens = (
 )
 
 print(len(linguagens))  # 5
+# a mesma utilização que fazemos em listas

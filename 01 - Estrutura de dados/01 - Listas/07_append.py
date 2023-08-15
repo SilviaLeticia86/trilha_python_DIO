@@ -1,3 +1,4 @@
+# utilizamos o append para incluir novos elementos a lista. Utilizamos objeto.append
 lista = []
 
 lista.append(1)

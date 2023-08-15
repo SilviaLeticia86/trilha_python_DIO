@@ -1,3 +1,4 @@
+# podemos usar também o valor somente por nome
 def criar_carro(modelo, ano, placa, /, *, marca, motor, combustivel):
     print(modelo, ano, placa, marca, motor, combustivel)
 

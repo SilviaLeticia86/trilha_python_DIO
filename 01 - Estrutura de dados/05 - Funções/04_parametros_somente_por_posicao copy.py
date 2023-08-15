@@ -1,3 +1,5 @@
+# alguns parãmetros podem ser passados por posição, sem o nome. Para identificá-los, utilizamos a /. Tudo o que vem antes da barra será passado por posição. O que vier após a barra poderá ser passado por posição e nome
+
 def criar_carro(modelo, ano, placa, /, marca, motor, combustivel):
     print(modelo, ano, placa, marca, motor, combustivel)
 

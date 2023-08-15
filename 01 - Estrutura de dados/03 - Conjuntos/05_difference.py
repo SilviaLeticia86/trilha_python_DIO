@@ -6,3 +6,5 @@ print(resultado)
 
 resultado = conjunto_b.difference(conjunto_a)
 print(resultado)
+
+# inverso da intersecção. Apresenta os dados que não se repetem nos conjuntos.

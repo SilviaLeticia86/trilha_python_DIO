@@ -7,3 +7,5 @@ print(resultado)
 
 resultado = conjunto_a.isdisjoint(conjunto_c)  # False
 print(resultado)
+
+#quando não há intersecção entre os conjuntos. Retorna valor booleano

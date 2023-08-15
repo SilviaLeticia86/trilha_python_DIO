@@ -16,3 +16,5 @@ print(resultado)
 
 resultado = "telefone" in contatos["giovanna@gmail.com"]  # True
 print(resultado)
+
+# operador in serve para verificar se uma chave está em determinado dicionário

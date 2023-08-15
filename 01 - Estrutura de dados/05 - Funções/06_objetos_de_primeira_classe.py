@@ -1,3 +1,5 @@
+# objetos de primeira classe são objetos que podem ser passados por parâmetro e que pode ser usado como variável.
+
 def somar(a, b):
     return a + b
 

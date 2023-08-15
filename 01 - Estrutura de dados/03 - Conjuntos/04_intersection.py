@@ -3,3 +3,5 @@ conjunto_b = {2, 3, 4}
 
 resultado = conjunto_a.intersection(conjunto_b)
 print(resultado)
+
+# faz a interseccão das partes iguais

@@ -7,3 +7,5 @@ contatos = {
 
 telefone = contatos["giovanna@gmail.com"]["telefone"]  # "3443-2121"
 print(telefone)
+
+# no caso de dicionários aninhados, a chave do objeto deve ser imutável, mas o objeto de valor pode  ser mutável ou imutável

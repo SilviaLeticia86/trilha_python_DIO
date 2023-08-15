@@ -6,3 +6,4 @@ print(resultado)
 
 resultado = conjunto_b.issubset(conjunto_a)  # False
 print(resultado)
+# sub conjunto. Todos os elementos de A estão em B, mas os de B não está em A
